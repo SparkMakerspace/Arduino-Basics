@@ -1,7 +1,7 @@
 # Arduino-Basics
 Resources for Spark Makerspace's Ardunio Basics class
 
-[Agenda](../agenda.md)
+[Agenda](agenda.md)
 
 This page: https://github.com/kristinharkness/Arduino-Basics
 
