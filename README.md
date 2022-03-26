@@ -1,6 +1,8 @@
 # Arduino-Basics
 Resources for Spark Makerspace's Ardunio Basics class
 
+[Agenda](agenda)
+
 This page: https://github.com/kristinharkness/Arduino-Basics
 
 Arduino Website: https://www.arduino.cc
